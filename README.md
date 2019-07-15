@@ -1,5 +1,7 @@
 # climvar : Analysis of Climate (Temperature) Variability for inclusion in PAGE IAM
 
+First, on the UCL geography cluster, do `source activate pangeo` to open the environment with the packages that are needed to run the code. 
+
 
 Dataset used: 
 
