@@ -1,6 +1,6 @@
 # climvar : Analysis of Climate (Temperature) Variability for inclusion in PAGE IAM
 
-First, on the UCL geography cluster, do `source activate pangeo` to open the environment with the packages that are needed to run the code. 
+First, on the UCL geography cluster, do `source activate pangeo` to open the environment with the packages that are needed to open the .nc files (i.e. specifically xarray), and do `source activate uncertainty` if you want to run the parts with an explicit handling of uncertainty. 
 
 
 Dataset used: 
