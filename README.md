@@ -10,4 +10,4 @@ _Ilyas, M., Brierley, C.M. and Guillas, S., 2017. Uncertainty in regional temper
 Code written by Jarmo Kikstra
 
 
-![SD of interannual climate variability with uncertainty ranges](.png)
+![SD of interannual climate variability with uncertainty ranges](fulluncertaintiesInternalVariability.png)
